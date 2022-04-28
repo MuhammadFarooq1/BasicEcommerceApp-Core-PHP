@@ -1,0 +1,39 @@
+.customDiv{
+	
+	margin-right: 20px;
+	background-color:rgba(32,42,39,0.55);
+	text-align: center;
+	border-radius:  12px;
+	float: right;
+	margin-bottom: 30px;
+}
+body{
+	background-color: bisque;
+}
+h1{
+	text-align: center;
+	background-color: aqua;
+}
+.row{
+	margin-left: 20px;
+	margin-top: 10px;
+	margin-right: 20px;
+}
+.table{
+	margin-top: 10px;
+	background-color:darkkhaki;
+	border-radius: 12px;
+}
+.d-flex
+{
+	max-height: 150px;
+	
+}
+.img{
+	
+	 max-height: 150px;
+	
+	border: 1px solid #eee;
+    border-radius: 3px;
+    max-width: 150px;
+}

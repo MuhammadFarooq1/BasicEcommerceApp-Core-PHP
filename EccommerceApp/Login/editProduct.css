@@ -1,0 +1,54 @@
+body{
+	background-color: bisque;
+}
+.input-field {
+  width: 50%;
+  padding: 10px;
+  outline: none;
+	border-radius: 12px;
+}
+.customDiv{
+	margin: 30px;
+	margin-left: 50px;
+	margin-top: 40px;
+	min-height: 300px;
+	max-width: 1000px;
+	background-color:rgba(32,42,39,0.55);
+	text-align: center;
+	border-radius:  12px;
+	
+}
+.form-group{
+          max-width: 300px;
+	      margin-left: 30px;
+ 
+         text-align: center;
+}
+.input-container {
+  display: -ms-flexbox; /* IE10 */
+  display: flex;
+  width: 50%;
+  margin-bottom: 15px;
+  margin-left: 30px;
+ 
+  text-align: center;
+	
+}
+
+.icon {
+  padding: 10px;
+  background: dodgerblue;
+  color: white;
+  min-width: 50px;
+  text-align: center;
+}
+.input-field:focus {
+  border: 2px solid dodgerblue;
+}
+h1{
+	text-align: center;
+	background-color: aqua;
+}
+.btn{
+	  margin-left: 220px;
+}
